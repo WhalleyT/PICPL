@@ -24,4 +24,4 @@ Thomas Whalley, Garry Dolton, Paul E. Brown, Aaron  Wall, Linda Wooldridge, Hugo
 GPU-Accelerated Discovery of Pathogen-Derived Molecular Mimics of a T-cell Insulin Epitope, 2019.
 
 ## Contact
-For enquiries about the Sofware or fungal/bacterial datbases please contact Barbara Szomolay (szomolayB@cardiff.ac.uk).
+For enquiries about the Sofware or fungal/bacterial databases from the manuscript please contact Barbara Szomolay (szomolayB@cardiff.ac.uk).
