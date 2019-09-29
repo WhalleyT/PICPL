@@ -20,7 +20,7 @@ Combinatorial Peptide Library, © 2019, The University of Warwick and Cardiff Un
 This Licence is governed by the laws of England and Wales and is subject to the non-exclusive jurisdiction of the courts of England and Wales
 
 ## Citations
-Thomas Whalley, Garry Dolton, Paul E. Brown, Aaron  Wall, Linda Wooldridge, Hugo van den Berg5, Anna Fuller, Jade Hopkins, Michael D. Crowther, Meriem Attaf, Robin R., Knight, David K. Cole, Mark Peakman, Andrew K. Sewell and Barbara Szomolay, 
+Thomas Whalley, Garry Dolton, Paul E. Brown, Aaron  Wall, Linda Wooldridge, Hugo van den Berg, Anna Fuller, Jade Hopkins, Michael D. Crowther, Meriem Attaf, Robin R., Knight, David K. Cole, Mark Peakman, Andrew K. Sewell and Barbara Szomolay, 
 GPU-Accelerated Discovery of Pathogen-Derived Molecular Mimics of a T-cell Insulin Epitope, 2019.
 
 ## Contact
