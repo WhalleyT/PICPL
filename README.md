@@ -2,7 +2,7 @@
 GPU accelerated combinatorial peptide library peptide scanning
 
 ## Installation
-A zip file of the executables can be downloaded from the RELEASES under the ASSETS. The executable will run on any of the 3 paltforms (Linux, Windows, MacOS). A sample of rotein sequences (testdata.fasta) and combinatorial peptide library data
+A zip file of the executables can be downloaded from the RELEASES under the ASSETS. The executable will run on any of the 3 paltforms (Linux, Windows, MacOS). A sample of protein sequences (testdata.fasta) and combinatorial peptide library data
 (CPL.txt) is included in the executable to test the codes. 
 
 ## Usage
