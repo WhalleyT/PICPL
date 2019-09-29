@@ -2,7 +2,7 @@
 GPU accelerated combinatorial peptide library peptide scanning
 
 ## Installation
-A zip file of the executables can be downloaded from the "releases" tab and under the assets. 
+A zip file of the executables can be downloaded from the RELEASES tab and under the ASSETS. 
 
 ## Usage
 
