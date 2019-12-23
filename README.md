@@ -5,6 +5,10 @@ GPU accelerated combinatorial peptide library peptide scanning
 A zip file of the executables can be downloaded from the RELEASES under the ASSETS. The executable will run on any of the 3 platforms (Linux, Windows, MacOS). A sample of protein sequences (testdata.fasta) and combinatorial peptide library data
 (CPL.txt) is included in the executable to test the codes. 
 
+## Implementation
+
+There are 2 main types of executable. The first is a CPL database scan, this scores the CPL matrix against a supplied FASTA file of interest. It will return the top n results. This is found in the The second is ```score_database``` folder. The second is the ranking executables which score against the theoretical peptide universe. These are found in the ```rank``` folder. The ```rank_n``` executable ranks the top n results in the theoretical peptide universe.The ```serial/theoretical_rank``` exectuables rank a given peptide of interest.
+
 ## Usage
 
 The CPL database scan can be ran as such:
@@ -14,6 +18,10 @@ The CPL database scan can be ran as such:
 and the peptide ranking:
 
 ```./theoretical_rank <cpl scan file> <peptide>```
+
+or for the top n:
+
+```./rank_n <cpl scan file>  <number of results>```
 
 The database scoring executables can be found in the folder "score_database" and the ranking executable in "rank".
 
